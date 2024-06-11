@@ -131,6 +131,14 @@
             {
                 "title": "ryanashcraft",
                 "url": "https://ryanashcraft.com/rss/"
+            },
+            {
+                "title": "老司机周报",
+                "url": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom"
+            },
+            {
+                "title": "掘金 iOS",
+                "url": "rsshub.app/juejin/category/ios"
             }
         ]
     },
