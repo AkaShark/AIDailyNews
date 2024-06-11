@@ -60,7 +60,6 @@ def load_rss_configs(resource):
 
 
 def parse_rss_config(rss_config):
-    logger.info(f"rssConfig={rss_config}")
     """仅获取当天的rss信息"""
     res = feedparser.parse(rss_config["url"],
                            agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
