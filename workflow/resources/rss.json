@@ -27,7 +27,111 @@
     {
         "category": "iOS Blog",
         "items": [
-            
+            {
+                "title": "Swift.org",
+                "url": "https://www.swift.org/atom.xml",
+                "image_enable": true
+            },
+            {
+                "title": "swiftbysundell",
+                "url": "https://swiftbysundell.com/feed.rss"
+            },
+            {
+                "title": "SwiftLee RSS",
+                "url": "https://www.avanderlee.com/feed/"
+            },
+            {
+                "title": "肘子的 Swift 记事本",
+                "url": "https://www.fatbobman.com/feed.rss",
+                "type": "link"
+            },
+            {
+                "title": "Donny Wals",
+                "url": "https://www.donnywals.com/feed/",
+                "type": "link"
+            },
+            {
+                "title": "Daniel Saidi",
+                "url": "https://danielsaidi.com/feed.xml"
+            },
+            {
+                "title": "Augmented Code",
+                "url": "https://augmentedcode.io/blog/feed/"
+            },
+            {
+                "title": "massicotte.org",
+                "url": "https://www.massicotte.org/feed.xml"
+            },
+            {
+                "title": "Emerge Tools Blog",
+                "url": "https://www.emergetools.com/rss.xml"
+            },
+            {
+                "title": "Ole Begemann",
+                "url": "https://oleb.net/blog/atom.xml"
+            },
+            {
+                "title": "Swift with Majid",
+                "url": "https://swiftwithmajid.com/feed.xml"
+            },
+            {
+                "title": "manu.show",
+                "url": "https://www.manu.show/feed.xml"
+            },
+            {
+                "title": "Donny Wals",
+                "url": "https://www.donnywals.com/feed/"
+            },
+            {
+                "title": "Wade Tregaskis",
+                "url": "https://wadetregaskis.com/feed/"
+            },
+            {
+                "title": "overdesigned blog",
+                "url": "https://blog.overdesigned.net/feed.rss"
+            },
+            {
+                "title": "otbivnoe’s blog",
+                "url": "https://otbivnoe.ru/feed.xml"
+            },
+            {
+                "title": "Scott Smith Dev",
+                "url": "https://scottsmithdev.com/rss.xml"
+            },
+            {
+                "title": "Augmented Code",
+                "url": "https://augmentedcode.io/blog/feed/"
+            },
+            {
+                "title": "Swift on server",
+                "url": "https://swiftonserver.com/rss.xml",
+                "type": "link"
+            },
+            {
+                "title": "Swift Unwrap",
+                "url": "https://swiftunwrap.com/feed.rss"
+            },
+            {
+                "title": "Swiftology",
+                "url": "https://swiftology.io/feed.rss"
+            },
+            {
+                "title": "Bryce Pauken",
+                "url": "https://bryce.co/index.xml",
+                "type": "link"
+            },
+            {
+                "title": "Brentley’s Blog",
+                "url": "https://brentley.dev/rss.xml"
+            },
+            {
+                "title": "byla.lt",
+                "url": "https://byla.lt/feed.rss"
+            },
+            {
+                "title": "ryanashcraft",
+                "url": "https://ryanashcraft.com/rss/"
+            },
             {
                 "title": "老司机周报",
                 "url": "https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom"
